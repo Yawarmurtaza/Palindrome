@@ -28,7 +28,7 @@ namespace Palindrome.ConsoleRunner
             int numberOfPalindromes = 3;
 
             ExecuteProgram runner = new ExecuteProgram(new PalindromeFinderV2()); // IoC can be used to resolve the dependency.
-            IEnumerable<PalindromeModel> palindromes = runner.PrintPalindromes(inputText, numberOfPalindromes);
+            IEnumerable<PalindromeModel> palindromes = runner.FindPalindromes(inputText, numberOfPalindromes);
 
             foreach (PalindromeModel palindrome in palindromes)
             {

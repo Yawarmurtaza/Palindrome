@@ -51,7 +51,7 @@ namespace Palindrome.ConsoleRunner.Tests
             // Act.
             //
 
-            IEnumerable<PalindromeModel> result = runner.PrintPalindromes(InputString, NumberOfPalindromes);
+            IEnumerable<PalindromeModel> result = runner.FindPalindromes(InputString, NumberOfPalindromes);
 
             //
             // Assert.
@@ -84,7 +84,7 @@ namespace Palindrome.ConsoleRunner.Tests
             //
             // Act.
             //
-            IEnumerable<PalindromeModel> result = runner.PrintPalindromes(InputString, NumberOfPalindromes);
+            IEnumerable<PalindromeModel> result = runner.FindPalindromes(InputString, NumberOfPalindromes);
 
             //
             // Assert.

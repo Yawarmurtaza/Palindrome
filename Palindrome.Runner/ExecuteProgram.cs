@@ -15,7 +15,7 @@ namespace Palindrome.ConsoleRunner
         }
 
 
-        public IEnumerable<PalindromeModel> PrintPalindromes(string inputText, int numberOfPalindromes)
+        public IEnumerable<PalindromeModel> FindPalindromes(string inputText, int numberOfPalindromes)
         {
             IEnumerable<string> palindromsText = this.palindromeFinder.GetLongestPalindromes(inputText, numberOfPalindromes);
 

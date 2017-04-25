@@ -40,3 +40,17 @@ E:\Development\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Microsoft.Visu
 E:\Development\McLaren_Palindrome\Palindrome.Core.Tests\obj\Debug\Palindrome.Core.Tests.csprojResolveAssemblyReference.cache
 E:\Development\McLaren_Palindrome\Palindrome.Core.Tests\obj\Debug\Palindrome.Core.Tests.dll
 E:\Development\McLaren_Palindrome\Palindrome.Core.Tests\obj\Debug\Palindrome.Core.Tests.pdb
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Palindrome.Core.Tests.dll
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Palindrome.Core.Tests.pdb
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Palindrome.Core.dll
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Palindrome.Core.pdb
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\obj\Debug\Palindrome.Core.Tests.csprojResolveAssemblyReference.cache
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\obj\Debug\Palindrome.Core.Tests.dll
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core.Tests\obj\Debug\Palindrome.Core.Tests.pdb

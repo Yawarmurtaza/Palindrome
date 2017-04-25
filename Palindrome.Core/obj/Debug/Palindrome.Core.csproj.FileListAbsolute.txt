@@ -13,3 +13,8 @@ E:\Development\McLaren_Palindrome\Palindrome.Core\bin\Debug\Palindrome.Core.pdb
 E:\Development\McLaren_Palindrome\Palindrome.Core\obj\Debug\Palindrome.Core.dll
 E:\Development\McLaren_Palindrome\Palindrome.Core\obj\Debug\Palindrome.Core.pdb
 E:\Development\McLaren_Palindrome\Palindrome.Core\obj\Debug\Palindrome.Core.csprojResolveAssemblyReference.cache
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core\bin\Debug\Palindrome.Core.dll
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core\bin\Debug\Palindrome.Core.pdb
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core\obj\Debug\Palindrome.Core.csprojResolveAssemblyReference.cache
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core\obj\Debug\Palindrome.Core.dll
+E:\GitRepository\McLaren_Palindrome\Palindrome.Core\obj\Debug\Palindrome.Core.pdb
