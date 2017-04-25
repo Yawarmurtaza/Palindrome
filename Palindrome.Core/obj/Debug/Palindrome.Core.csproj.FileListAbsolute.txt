@@ -1,0 +1,15 @@
+E:\MY_DEVELOPMENT\PalindromicAttampt1.Runner\Palindrome.Core\bin\Debug\Palindrome.Core.dll
+E:\MY_DEVELOPMENT\PalindromicAttampt1.Runner\Palindrome.Core\bin\Debug\Palindrome.Core.pdb
+E:\MY_DEVELOPMENT\PalindromicAttampt1.Runner\Palindrome.Core\obj\Debug\Palindrome.Core.csprojResolveAssemblyReference.cache
+E:\MY_DEVELOPMENT\PalindromicAttampt1.Runner\Palindrome.Core\obj\Debug\Palindrome.Core.dll
+E:\MY_DEVELOPMENT\PalindromicAttampt1.Runner\Palindrome.Core\obj\Debug\Palindrome.Core.pdb
+E:\Development\PalindromicAttampt1.Runner\Palindrome.Core\bin\Debug\Palindrome.Core.dll
+E:\Development\PalindromicAttampt1.Runner\Palindrome.Core\bin\Debug\Palindrome.Core.pdb
+E:\Development\PalindromicAttampt1.Runner\Palindrome.Core\obj\Debug\Palindrome.Core.csprojResolveAssemblyReference.cache
+E:\Development\PalindromicAttampt1.Runner\Palindrome.Core\obj\Debug\Palindrome.Core.dll
+E:\Development\PalindromicAttampt1.Runner\Palindrome.Core\obj\Debug\Palindrome.Core.pdb
+E:\Development\McLaren_Palindrome\Palindrome.Core\bin\Debug\Palindrome.Core.dll
+E:\Development\McLaren_Palindrome\Palindrome.Core\bin\Debug\Palindrome.Core.pdb
+E:\Development\McLaren_Palindrome\Palindrome.Core\obj\Debug\Palindrome.Core.dll
+E:\Development\McLaren_Palindrome\Palindrome.Core\obj\Debug\Palindrome.Core.pdb
+E:\Development\McLaren_Palindrome\Palindrome.Core\obj\Debug\Palindrome.Core.csprojResolveAssemblyReference.cache

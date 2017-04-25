@@ -1,0 +1,6 @@
+E:\MY_DEVELOPMENT\PalindromicAttampt1.Runner\PalindromicAttampt1.Runner\bin\Debug\PalindromicAttampt1.Runner.exe.config
+E:\MY_DEVELOPMENT\PalindromicAttampt1.Runner\PalindromicAttampt1.Runner\bin\Debug\PalindromicAttampt1.Runner.exe
+E:\MY_DEVELOPMENT\PalindromicAttampt1.Runner\PalindromicAttampt1.Runner\bin\Debug\PalindromicAttampt1.Runner.pdb
+E:\MY_DEVELOPMENT\PalindromicAttampt1.Runner\PalindromicAttampt1.Runner\obj\Debug\PalindromicAttampt1.Runner.csprojResolveAssemblyReference.cache
+E:\MY_DEVELOPMENT\PalindromicAttampt1.Runner\PalindromicAttampt1.Runner\obj\Debug\PalindromicAttampt1.Runner.exe
+E:\MY_DEVELOPMENT\PalindromicAttampt1.Runner\PalindromicAttampt1.Runner\obj\Debug\PalindromicAttampt1.Runner.pdb
